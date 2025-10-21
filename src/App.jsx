@@ -13,7 +13,7 @@ function AppContent() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Layout toggleTheme={toggleTheme} isDark={isDark} />}>
+        <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
           <Route path="api-data" element={<ApiData />} />
           <Route path="about" element={<About />} />
