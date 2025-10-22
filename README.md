@@ -252,13 +252,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📸 Screenshots
 
 ### Light Mode
-![Light Mode Home](./screenshots/light-home.png)
+![Light Mode Home] 
 
 ### Dark Mode
-![Dark Mode Home](./screenshots/dark-home.png)
+![Dark Mode Home](image-3.png)
 
 ### API Data Page
-![API Data Page](./screenshots/api-data.png)
+![API Data Page]!(image-4.png)
 
 ---
 
