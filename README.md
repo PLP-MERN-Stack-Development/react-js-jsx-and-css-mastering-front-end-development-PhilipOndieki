@@ -259,10 +259,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ![Light Mode Home](image.png) 
 
 ### Dark Mode
-![Dark Mode Home](image-9.png)
+![Dark Mode Home](image-1.png)
 
 ### API Data Page
-![API Data Page](image-8.png)
+![API Data Page](image-2.png)
 
 ---
 
