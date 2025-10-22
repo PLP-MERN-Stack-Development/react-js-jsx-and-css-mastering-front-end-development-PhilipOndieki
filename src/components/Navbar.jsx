@@ -1,7 +1,10 @@
 import React, { useState } from 'react';
 import { Link, NavLink } from 'react-router-dom';
+import { useTheme } from '../context/ThemeContext';
 
-const Navbar = ({ toggleTheme, isDark }) => {
+
+const Navbar = () => {
+  const { isDark, toggleTheme } = useTheme();
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   const navLinks = [
