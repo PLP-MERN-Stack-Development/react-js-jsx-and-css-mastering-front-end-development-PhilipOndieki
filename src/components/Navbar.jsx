@@ -20,7 +20,7 @@ const Navbar = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center">
             <span className="text-2xl font-bold text-blue-600 dark:text-blue-400">
-              📋 PLP Task Manager
+              📋 Taskcaptain
             </span>
           </Link>
 

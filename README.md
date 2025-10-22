@@ -1,4 +1,4 @@
-# 📋 PLP Task Manager
+# 📋 Taskcaptain
 
 A modern, responsive task management application built with React, Vite, and Tailwind CSS. This project demonstrates advanced front-end development practices including component architecture, state management, API integration, and theme customization.
 
@@ -241,7 +241,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Philip Ondieki**
 
 - GitHub: [@philipondieki](https://github.com/philipondieki)
-- Project: [PLP Task Manager](https://github.com/philipondieki/plp-task-manager)
+- Project: [Taskcaptain](https://github.com/philipondieki/plp-task-manager)
 
 ## 🙏 Acknowledgments
 

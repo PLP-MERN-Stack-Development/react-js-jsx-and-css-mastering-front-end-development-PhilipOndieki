@@ -11,7 +11,7 @@ const Footer = () => {
           {/* About Section */}
           <div>
             <h3 className="text-lg font-semibold mb-4 text-gray-900 dark:text-white">
-              PLP Task Manager
+              Taskcaptain
             </h3>
             <p className="text-gray-600 dark:text-gray-400 text-sm">
               A modern task management application built with React, Vite, and Tailwind CSS.
@@ -94,7 +94,7 @@ const Footer = () => {
         {/* Copyright */}
         <div className="border-t border-gray-200 dark:border-gray-700 mt-8 pt-8 text-center">
           <p className="text-gray-600 dark:text-gray-400 text-sm">
-            © {currentYear} PLP Task Manager. Built with ❤️ for learning.
+            © {currentYear} Taskcaptain. Built with ❤️ for learning.
           </p>
         </div>
       </div>
