@@ -8,8 +8,6 @@ import About from './pages/About';
 
 // AppContent component that uses the theme context
 function AppContent() {
-  const { isDark, toggleTheme } = useTheme();
-
   return (
     <BrowserRouter>
       <Routes>
