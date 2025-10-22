@@ -256,7 +256,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📸 Screenshots
 
 ### Light Mode
-![Light Mode Home] 
+![Light Mode Home](image.png) 
 
 ### Dark Mode
 ![Dark Mode Home](image-9.png)
