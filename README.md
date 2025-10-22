@@ -1,5 +1,6 @@
 # 📋 Taskcaptain
-taskcaptain.netlify.app
+https://taskcaptain.netlify.app/
+
 A modern, responsive task management application built with React, Vite, and Tailwind CSS. This project demonstrates advanced front-end development practices including component architecture, state management, API integration, and theme customization.
 
 Home page <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8bb80c3a-6004-4923-8e75-cc47723e0ab4" />
