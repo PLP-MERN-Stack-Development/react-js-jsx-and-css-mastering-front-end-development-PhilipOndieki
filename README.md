@@ -2,9 +2,9 @@
 
 A modern, responsive task management application built with React, Vite, and Tailwind CSS. This project demonstrates advanced front-end development practices including component architecture, state management, API integration, and theme customization.
 
-![home page](image.png)
-![api data page](image-1.png)
-![about page](image-2.png)
+![home page] (image-10.png)
+![api data page] (image-6.png)
+![about page](image-7.png)
 
 ## 🌟 Features
 
@@ -255,10 +255,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ![Light Mode Home] 
 
 ### Dark Mode
-![Dark Mode Home](image-3.png)
+![Dark Mode Home](image-9.png)
 
 ### API Data Page
-![API Data Page]!(image-4.png)
+![API Data Page](image-8.png)
 
 ---
 
